@@ -1,5 +1,5 @@
 # Plakatowanie
-*Wszystkie budynki we wschodniej czesci Bajtogrodu zostały zbudowane zgodnie z zasadami
+* Wszystkie budynki we wschodniej czesci Bajtogrodu zostały zbudowane zgodnie z zasadami
 starego bajtobudownictwa: stoja one jeden przy drugim (nie ma miedzy nimi przerw). Razem
 tworza bardzo długa sciane budynków o zróznicowanej wysokosci, ciagnaca sie ze wschodu na
 zachód.
@@ -11,7 +11,7 @@ pionowych i poziomych. Plakaty nie moga zachodzic na siebie, natomiast moga styk
 sie brzegami. Kazdy plakat musi w całosci przylegac do scian pewnych budynków i cała
 powierzchnia północnych scian budynków musi byc pokryta plakatami.
 
-###Zadanie
+### Zadanie
 
 Napisz program, który:
 
